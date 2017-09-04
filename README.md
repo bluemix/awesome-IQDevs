@@ -1,22 +1,49 @@
 # awesome-IQDevs
-A collection if IQDevs community-gathered tools and resources sorted alphabetically
+A collection if IQDevs community-gathered tools and resources
 
-## Articles & Blog Posts
+- [Resources](#resources)
+    - [Job Portal](#job-portal)
+    - [Podcasts](#podcasts)
+    - [Tutorials](#tutorials)
+    - [Books](#books)
+- [Front-end Web Components & Libraries](#front-end-components--libraries)
+  - [UI Components](#ui-components)
+  - [Frameworks](#frameworks)
+    - [Responsive](#responsive)
+    - [Mobile](#mobile)
+    - [Component Collections](#component-collections)
+    - [Other](#other)
+  - [UI Utilities](#ui-utilities)
+  - [Utilities](#utilities)
+    - [Typescript](#typescript)
+    - [HTTP Requests](#http-requests)
+    - [i18n](#i18n)
+    - [Custom Events](#custom-events)
+    - [Persistence](#persistence)
+    - [State Management](#state-management)
+      - [Redux](#redux)
+      - [Mobx](#mobx)
+      - [Vuex Utilities](#vuex-utilities)
+    - [Concurrency Management](#concurrency-management)
+    - [Code Style](#code-style)
+    - [CSS](#css)
+    - [Asset Management](#asset-management)
+    - [Page Navigation](#page-navigation)
+    - [Miscellaneous](#miscellaneous-3)
+    - [Web Workers](#web-workers)
+    - [JSX](#jsx)
+    - [Migration](#migration)
+    - [Web Sockets](#web-sockets)
+  - [Integrations](#integrations)
+  - [Dev Tools](#dev-tools)
+    - [Inspect](#inspect)
+    - [Docs](#docs)
+    - [Test](#test)
+    - [Source Code Editing](#source-code-editing)
 
-## Cloud Services
+- [Back-end Web Components & Libraries](#back-end-components--libraries)
 
-## Databases
+- [Android/iOS Components & Libraries](#mobile-components--libraries)
 
-## Development Environments
+- [Operating System Components & Libraries](#os-components--libraries)
 
-## Educational Platforms & Courses
-
-## General (Uncategorized)
-
-## Hacking & Security
-
-## Mobile Development
-
-## System Programming
-
-## Web Development
